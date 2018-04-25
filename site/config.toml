@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "StatusKit"
+title = "Host Network Status Page"
 
 [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
@@ -13,4 +13,5 @@ title = "StatusKit"
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["API", "CDN", "DNS", "Site delivery"]
+# systems = ["API", "CDN", "DNS", "Site delivery"]
+systems = ["Sorry, this status page is coming soon!"]
